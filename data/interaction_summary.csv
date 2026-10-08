@@ -1,0 +1,4 @@
+Protein_A,Protein_B,Database,Result,Evidence
+CCL4,CCR5,OmniPath,Interaction supported,Stimulation; 44 references
+CCR5,GNAI1,IntAct,No useful record found,
+GNAI1,GNB1,IntAct,Physical association supported,3D electron microscopy; Homo sapiens; PMID 35501348
